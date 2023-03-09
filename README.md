@@ -37,7 +37,7 @@ No doubt, you will be using external libraries in your project. Depending on wha
 
 ## 4 Check the terms of service of where your software is hosted
 
-There may be some rules that you may want to consider when choosing a platform to host rour code. For instance, GitHub requires its users to allow forking.
+There may be some rules that you may want to consider when choosing a platform to host your code. For instance, GitHub requires its users to allow forking.
 
 ---
 
